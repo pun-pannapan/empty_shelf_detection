@@ -1,0 +1,8 @@
+train: C:\Punn\TestTrainImage6\Information\dataset\train
+val: C:\Punn\TestTrainImage6\Information\dataset\valid
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'empty_shelf' ]
